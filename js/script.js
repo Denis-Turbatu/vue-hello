@@ -6,6 +6,7 @@ createApp({
     data(){
         return{
             greeting: "Hello World!",
+            imageUrl: "./img/image.png",
         };
     },
     methods: {
